@@ -1,1 +1,2 @@
 # EnigmaGPU
+This project intents by using a cuda-capable GPU to break the enigma code. In the file bomba_gpu.cu you can find the code for the creation of an enigma machine and the creation of a bombe machine implemented in CUDA to break the enigma code. The enigma machine had different configurations to be solved: plugboard configuration, rotor start and rodor order. The rotor order is still to be implemented.
