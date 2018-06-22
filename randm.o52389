@@ -1,0 +1,9 @@
+Message model: abcdefghijklmnop
+Encrypted message: hlhhekjeifekmnmo
+Reconstructed message : abcdefghijklmnop
+Original Keyboard : 5,4,13,7,1,0,6,3,8,9,10,11,12,2,14,15
+--------------
+SOLUTION:
+keyboard: 5,4,13,7,1,0,6,3,8,9,10,11,12,2,14,15
+offset: 100
+Temps Kernel: 177400
